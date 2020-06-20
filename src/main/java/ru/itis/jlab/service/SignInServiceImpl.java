@@ -10,7 +10,6 @@ import org.springframework.stereotype.Service;
 import ru.itis.jlab.dto.SignInDto;
 import ru.itis.jlab.dto.TokenDto;
 import ru.itis.jlab.model.User;
-import ru.itis.jlab.repositories.UserRepository;
 
 
 import java.util.Optional;

@@ -9,7 +9,6 @@ import ru.itis.jlab.model.Role;
 import ru.itis.jlab.model.State;
 import ru.itis.jlab.model.User;
 import ru.itis.jlab.repositories.UserRepository;
-import ru.itis.jlab.repositories.UserRepositoryJpaImpl;
 import ru.itis.jlab.service.MailService.MailService;
 import ru.itis.jlab.service.MailService.PrepareMailModelService;
 
